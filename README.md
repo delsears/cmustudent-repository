@@ -15,7 +15,7 @@ Here is all of the work I created in the Spring of 2022!
 https://delsears.github.io/cmustudent-repository/ 
 
 #### Assignment: Visualizing Govenrment Data
-[Graphs and visualizations from this exercise can be found her](DataVisAssignment2)
+[Graphs and visualizations from this exercise can be found here](DataVisAssignment2)
 
 
 #### **Assignment 2**

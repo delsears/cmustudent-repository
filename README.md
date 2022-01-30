@@ -15,10 +15,13 @@ Here is all of the work I created in the Spring of 2022!
 https://delsears.github.io/cmustudent-repository/ 
 
 #### Assignment: Visualizing Govenrment Data
-** *Government Debt as % of GDP - Bar Chart* 
+##### *Government Debt as % of GDP - Bar Chart* 
 
 <iframe src="https://data.oecd.org/chart/6BjA" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BjA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
+##### *Government Debt as % of GDP - Stacked Line Chart*
+This visualization takes the Government Debt as percentage of GDP ratio of 45 countries around the world, spanning from 1995 to 2019. There are also graphs showing the average of these ratios at the bottom of the collection. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8563088"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### **Assignment 2**

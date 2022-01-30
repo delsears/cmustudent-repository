@@ -15,7 +15,10 @@ Here is all of the work I created in the Spring of 2022!
 https://delsears.github.io/cmustudent-repository/ 
 
 #### Assignment: Visualizing Govenrment Data
-[Graphs and visualizations from this exercise can be found here](DataVisAssignment2)
+** *Government Debt as % of GDP - Bar Chart* 
+
+<iframe src="https://data.oecd.org/chart/6BjA" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BjA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+
 
 
 #### **Assignment 2**

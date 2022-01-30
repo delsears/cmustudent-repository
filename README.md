@@ -14,6 +14,8 @@ As someone who's been a graphic designer, I've always drawn things by hand - I r
 Here is all of the work I created in the Spring of 2022! 
 https://delsears.github.io/cmustudent-repository/ 
 
-#### **Assignment 1**
+#### Assignment: Visualizing Govenrment Data
+[Graphs and visualizations from this exercise can be found her](DataVisAssignment2)
+
 
 #### **Assignment 2**

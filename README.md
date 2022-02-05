@@ -34,3 +34,6 @@ The benefits of this visualization, and why I chose the treemap for this third v
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8563257"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### **Assignment 2**
+As someone passionate about the environment, and subsequently decreasing meat consumption, I found two separate graphs depicting both the Global Meat Consumption of various meat types frmo 1990 to 2020 and the Global Meat Substitute Consumption (and projection) from 2013 to 2026. Screenshots of the files are below. 
+[Global Meat Consumption SOURCE: OECD, FAO](Meat Consumption.png) 
+[Global Meat Substitute Consumption SOURCE: Statista] (Substitute Consumption.png)  

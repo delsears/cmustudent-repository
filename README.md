@@ -39,5 +39,7 @@ As someone passionate about the environment, and subsequently decreasing meat co
 
 <img width="720" alt="Meat Consumption" src="https://user-images.githubusercontent.com/97906084/152657276-f2678c91-248d-4785-853a-8606de6ec387.png">
 SOURCE: OECD, FAO
+[Original Site](https://www.statista.com/statistics/274522/global-per-capita-consumption-of-meat/) 
 <img width="728" alt="Substitute Consumption" src="https://user-images.githubusercontent.com/97906084/152657285-714e4247-e473-4a84-ba91-7fb4d560d3db.png">
 SOURCE: Statista
+[Original Site](https://www.statista.com/forecasts/1276467/worldwide-meat-substitute-consumption)

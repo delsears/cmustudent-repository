@@ -91,3 +91,6 @@ One graph shows growth - and is still interesting regardless of how small the me
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+### **Final Project**
+[The Preparation](finalproject_sears.md) 

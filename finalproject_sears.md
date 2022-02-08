@@ -13,6 +13,8 @@ The exclusion of women from the Best Director category also has ties to those mo
 
 
 ### The Data
-[Academy Award Demographics](https://data.world/crowdflower/academy-awards-demographics) 
+[Academy Award Demographics](https://data.world/crowdflower/academy-awards-demographics)
+
 [Best Director Quick Facts](https://www.filmsite.org/bestdirs1.html) 
+
 [Best Picture/Director Discrepancy](https://web.archive.org/web/20120113073946/http://awardsdatabase.oscars.org/ampas_awards/help/statistics/bestpixdirdiff.html) 

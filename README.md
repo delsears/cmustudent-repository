@@ -2,12 +2,6 @@
 # **Delaney Sears Portfolio**
 My portfolio page for Telling Stories with Data, Spring 2022
 
-*Quick Links*:
-
-[Assignment: Govt Data](https://delsears.github.io/cmustudent-repository/#assignment-visualizing-govenrment-data)
-
-[Assignment: Design and Redesign](https://delsears.github.io/cmustudent-repository/#assignment-2)
-
 ### *About Me*
 Hi! I'm Delaney (she/her). 
 
@@ -20,10 +14,10 @@ As someone who's been a graphic designer, I've always drawn things by hand - I r
 Here is all of the work I created in the Spring of 2022! 
 https://delsears.github.io/cmustudent-repository/ 
 
-### Assignment: Visualizing Govenrment Data
+### **Assignment: Visualizing Govenrment Data**
 [See the Assignment Here](govtdata_sears.md)
 
-### **Assignment 2**
+### **Assignment: Critique By Design**
 [See my Process and Redesign Here](redesign_sears.md)
 
 ### **Final Project**

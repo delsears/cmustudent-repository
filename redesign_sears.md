@@ -1,3 +1,4 @@
+[Go Back to the Main Page](https://delsears.github.io/cmustudent-repository/) 
 
 As someone passionate about the environment, and subsequently decreasing meat consumption, I found two separate graphs depicting both the Global Meat Consumption of various meat types frmo 1990 to 2020 and the Global Meat Substitute Consumption (and projection) from 2013 to 2026. Screenshots of the files are below. 
 

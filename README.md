@@ -24,7 +24,7 @@ https://delsears.github.io/cmustudent-repository/
 [See the Assignment Here](govtdata_sears.md)
 
 ### **Assignment 2**
-[See my Process and Redesign Here] (redesign_sears.md)
+[See my Process and Redesign Here](redesign_sears.md)
 
 ### **Final Project**
 [The Preparation](finalproject_sears.md) 

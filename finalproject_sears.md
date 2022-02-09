@@ -12,6 +12,12 @@ Similarly, only **6 Black directors have been nominated in 94 years, none of the
 
 The exclusion of women from the Best Director category also has ties to those movies that win for Best Picture - of the 93 films that have won Best Picture, 67 have won Best Director as well. That's a 72% win relationship between director and Best Picture. Interestingly enough, **18** women-directed films have garnered a Best Picture nomination - with only **8** getting nominated (2 of those being Jane Campion), that ratio drops to 44%. 
 
+### The Story Arc
+![IMG_0466](https://user-images.githubusercontent.com/97906084/153259885-95abefc1-5dfd-45b0-9117-8b3fe1218632.JPG)
+
+### The Sketches
+![Untitled_Artwork 87](https://user-images.githubusercontent.com/97906084/153262436-7dd30e00-6dd5-4b04-90d6-b3f77799bf7c.jpg)
+
 
 ### The Data
 [Academy Award Demographics](https://data.world/crowdflower/academy-awards-demographics)

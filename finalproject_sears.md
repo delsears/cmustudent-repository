@@ -1,4 +1,5 @@
 [Go Back to the Main Page](https://delsears.github.io/cmustudent-repository/) 
+# The Final Project Part I: Female Directors at the Oscars
 
 ### The Outline
 In this project, I want to highlight the representation reflected in the Best Director award at the oscars - or, in more likely terms, the *lack* of representation. This will mainly focus on women, as with the 2022 Oscar nominations we got the FIRST woman to ever be nominated a SECOND TIME for a directing Oscar in Jane Campion, but it feels remiss to discuss this without acknowledging the incredibly racial disparity in the directing nominees as well. Yes, it's a story that has a lot of traction, but with the recent history made with Jane Campion, it feels important to tell now. 

@@ -18,6 +18,12 @@ The exclusion of women from the Best Director category also has ties to those mo
 ### The Sketches
 ![Untitled_Artwork 87](https://user-images.githubusercontent.com/97906084/153262436-7dd30e00-6dd5-4b04-90d6-b3f77799bf7c.jpg)
 
+I also started messing around in Canva and made something I think I want to use in my final project...but it felt right to put it here, too, to show the kind of visualization style I'm trying to go for!
+![oscar stats](https://user-images.githubusercontent.com/97906084/153721399-ed12facf-62b2-45a7-a22a-9958b0ccb3ca.png)
+
+
+### The Method 
+I'm interested in using Shorthand for this project - I feel like having one cohesive website that can also be used as a deliverable for spreading this information is a good choice for this topic! In terms of how I'll be creating my visualizations, I anticipate it being a combination of Tableau and programs like Canva - a lot of this information can be very simply portrayed, and some of it will require the more complex functions of Tableau!
 
 ### The Data
 [Academy Award Demographics](https://data.world/crowdflower/academy-awards-demographics)

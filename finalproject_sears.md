@@ -31,3 +31,5 @@ I'm interested in using Shorthand for this project - I feel like having one cohe
 [Best Director Quick Facts](https://www.filmsite.org/bestdirs1.html) 
 
 [Best Picture/Director Discrepancy](https://web.archive.org/web/20120113073946/http://awardsdatabase.oscars.org/ampas_awards/help/statistics/bestpixdirdiff.html) 
+
+[Celluloid Ceiling - Research on Women in TV/Film](https://womenintvfilm.sdsu.edu/research/) 

@@ -22,3 +22,5 @@ https://delsears.github.io/cmustudent-repository/
 
 ### **Final Project**
 [The Preparation](finalproject_sears.md) 
+
+[Preparation Part 2](finalproject_part2.md)

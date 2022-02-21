@@ -12,3 +12,11 @@
 ![8](https://user-images.githubusercontent.com/97906084/154365213-e46f1e80-8a51-4831-8223-e936992da58e.png)
 ![9](https://user-images.githubusercontent.com/97906084/154365218-8dcdd77b-819d-483d-bb39-02bd4a7f6de0.png)
 ![10](https://user-images.githubusercontent.com/97906084/154365225-ce118c9c-5e8d-465b-87d8-0367e4237ef2.png)
+
+
+## User Research 
+|Research Question | Person One (20s, F, Arts) | Person Two (20s, M, Film) | Person Three (20s, F, Engineering) |
+| --- | --- | --- | --- | 
+| While the visualizations are mockups, is there anything you wish they were saying? | List all new or modified files | | | 
+| Is there anything in the story you're missing?| Show file differences that haven't been staged | | | 
+| Do you understand the general story being told?| | | |

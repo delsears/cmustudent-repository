@@ -15,9 +15,18 @@
 ![10](https://user-images.githubusercontent.com/97906084/154365225-ce118c9c-5e8d-465b-87d8-0367e4237ef2.png)
 
 
+## User Research Protocol 
+
+
 ## User Research  
 |Research Question | Person One (20s, F, Arts) | Person Two (20s, M, Film) | Person Three (20s, F, Engineering) |
 | --- | --- | --- | --- | 
 | While the visualizations are mockups, is there anything you wish they were saying? | The Best Picture vs. Best Director visualization isn't conveying what it should be...the stars are visually confusing and while the data is interesting, the story isn't clear. Also the line graph at the end has a **very weird time jump** that makes it harder to read or understand | I wish the final line graph also showed the growth of nominations along with the growth of directors in general...**something to give that graph more weight or more depth**| While yes a lot of them are mockups, I feel like they will work a lot better with explanatory text next to them | 
 | Is there anything in the story you're missing?| It might be interesting to compare these statistics with statistics from something like the Golden Globes...to see whether its an **industry problem, or just an Academy problem** | I feel like there's something to be said about the **types of female-directed movies** that do get Oscar recognition? Like how The Hurt Locker won for Director but was a very stereotypically "male" film...but maybe there's not objective data on that | Race is brought up once and not really again...even if it's in the text explanation or made very clear **how race also factors into this**, that extra context would be really helpful to the overall story | 
 | Do you understand the general story being told?| Yes, it's abysmal. | Yes, and I want even more about it! | Yes, and I also learned that the Oscars have been going on for a lot longer than I thought they had |
+
+## Changes to be Made
+This user research was really helpful for me - as someone who has been staring at this data for weeks now, it can get hard for me to take a step back and see what gaps in the story might be appearing. After these comments, I have a few changes I'm gonna focus on:
+ 1. Fixing that time jump in the line graph - while this was a wireframe, this jump was because of the data I had used for this visualization. I'm going to figure out a way to either get more data or refigure the visualizaiton to make more sense with the data I _do_ have. 
+ 2. Add some extra context, especially from the Golden Globes - there has been at least one instance in my immediate memory where a woman _won_ Best Director at the Globes and then wasn't even nominated at the Oscars 
+ 3. While it is not my priority, I'm going to see if there's a way I can analyze the genres of the movies that did get a directing nomination - however, this might be hard to be super subjective with, as what constitutes a "masculine" or "feminine" movie is up to nuanced interpretation. 

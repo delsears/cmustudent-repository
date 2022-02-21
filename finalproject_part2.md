@@ -16,7 +16,7 @@
 
 
 ## User Research Protocol 
-
+My target audience for this project is not just people already working in, or even fully interested in, the film industry - it's people who simply watch movies and are a part of the greater cultural media spheres that speak about and discuss movies. Since the call to action is just watching more female-directed movies, or even just _talking_ about female directors, that's something that anyone who only sees movies occasionaly can do. Because of this, I actively tried to interview people who were not all from my program - Entertainment Industry Management - because these people would likely have the incoming knowledge and understanding that I do. Instead, one of my interviewees was a friend from college who notoriously cannot tell Matt Damon and Leonardo Dicaprio apart - if she can understand these visualizations, the story is clear. 
 
 ## User Research  
 |Research Question | Person One (20s, F, Arts) | Person Two (20s, M, Film) | Person Three (20s, F, Engineering) |

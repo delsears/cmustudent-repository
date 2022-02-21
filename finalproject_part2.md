@@ -1,5 +1,6 @@
 # Storyboard, Wireframes, and User Research
 [Go Back to the Main Page](https://delsears.github.io/cmustudent-repository/) 
+
 [See the Preparation](finalproject_sears.md) 
 
 ## Story Board - Mock-Ups of Final Visualizations and Story Flow 

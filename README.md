@@ -24,3 +24,5 @@ https://delsears.github.io/cmustudent-repository/
 [The Preparation](finalproject_sears.md) 
 
 [Storyboard and Research](finalproject_part2.md)
+
+[The Reflection](finalproject_reflection.md) 

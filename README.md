@@ -21,6 +21,8 @@ https://delsears.github.io/cmustudent-repository/
 [See my Process and Redesign Here](redesign_sears.md)
 
 ### **Final Project**
+#### Female Directors at the Oscars 
+[Final Project Site](https://carnegiemellon.shorthandstories.com/female-directors-at-the-oscars/index.html) 
 [The Preparation](finalproject_sears.md) 
 
 [Storyboard and Research](finalproject_part2.md)

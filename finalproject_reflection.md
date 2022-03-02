@@ -28,4 +28,3 @@ The collection of references used throughout this project are below- they are al
 4. McCarthy, Niall. “Inequality at the 2015 Academy Awards by the Numbers [Infographic].” Forbes, Forbes Magazine, 20 Feb. 2015, https://www.forbes.com/sites/niallmccarthy/2015/02/20/inequality-at-the-2015-academy-awards-by-the-numbers-infographic/?sh=398064ec41a4.
 6. Sharf, Zack. “Jane Campion Makes Oscars History as First Woman with Two Best Director Nominations.” Variety, Variety, 9 Feb. 2022, https://variety.com/2022/film/news/jane-campion-oscar-nominations-best-director-1235169721/.
 7. Weisenstein, Kara. “The 2020 Oscar Nominations Confirm That Awards Don't Matter.” Mic, Mic, 13 Jan. 2020, https://www.mic.com/p/the-2020-oscar-nominations-confirm-that-awards-dont-matter-20508624.
-![image](https://user-images.githubusercontent.com/97906084/156454276-871a9a46-5c52-4b4f-9d8f-05b31cfb41d8.png)
